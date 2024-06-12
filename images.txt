@@ -1,3 +1,4 @@
 xiaoyaliu/alist
 xiaoyaliu/glue
 amilys/embyserver
+gotson/komga
